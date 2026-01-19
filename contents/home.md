@@ -1,20 +1,20 @@
 [![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I'm currently pursuing a Master's degree in Robotics and Artificial Intelligence Lab (RAIL) at the College of Electronic and Information Engineering, Tongji University, China.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>2431997@tongji.edu.cn</code>  
+<code>yuebing_song@163.com</code>
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
+**Tongji University**, Master of XX (2024 – now)  
 • GPA: XX/XX  
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
+**National University of Singapore**, Exchange student <br>  
+• As a XX, represented my college as an outstanding student for a 'Introduction to Industry 4.0' exchange program.  
 
-**XX University**, Honours Bachelor of XX (XX – XX)  
+**Northwestern Polytechnical University**, Honours Bachelor of XX (2020 – 2024)  
 • GPA: XX/XX (top XX%)  
 
 #### Research Interests  
-XX, XX, XX, XX.
+Underwater Robot, Autonomous Driving, Lifelong Learning.
