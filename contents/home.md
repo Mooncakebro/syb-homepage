@@ -8,13 +8,13 @@ I'm currently pursuing a Master's degree in Robotics and Artificial Intelligence
 
 #### Education  
 **Tongji University**, Master of XX (2024 – now)  
-• GPA: XX/XX  
+• GPA: 4.87/5.0  
 
-**National University of Singapore**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a 'Introduction to Industry 4.0' exchange program.  
+**National University of Singapore**, Exchange student, 'Introduction to Industry 4.0' Program (2024.7)  <br>
+• Overall Grade: Distinction
 
-**Northwestern Polytechnical University**, Honours Bachelor of XX (2020 – 2024)  
-• GPA: XX/XX (top XX%)  
+**Northwestern Polytechnical University**, Honors graduate (2020 – 2024)  
+• GPA: 3.912/4.0  
 
 #### Research Interests  
-Underwater Robot, Autonomous Driving, Lifelong Learning.
+Underwater Robotics, Autonomous Driving, Lifelong Learning.
