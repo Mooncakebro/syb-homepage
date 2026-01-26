@@ -7,7 +7,7 @@ I'm currently pursuing a Master's degree in Robotics and Artificial Intelligence
 <code>yuebing_song@163.com</code>
 
 #### Education  
-**Tongji University**, Master of XX (2024 – now)  
+**Tongji University**, M.Sc. in Control Science and Engineering (2024 – now)  
 • GPA: 4.87/5.0  
 
 **National University of Singapore**, Exchange student, 'Introduction to Industry 4.0' Program (2024.7)  <br>
