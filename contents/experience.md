@@ -79,10 +79,16 @@ Spearheaded the development of an intelligent robot decision-making system based
 - **Intelligent Decision-Making System:** Designed and implemented a hierarchical decision-making system based on visual feedback, fusing real-time scene understanding with task planning to effectively increase the robot's task completion rate in dynamic home environments.
 - **Team & Tech Infrastructure:** As a key technical member, conducted ROS and robotics training to systematically enhance the team's R&D capabilities. Led the improvement of the team's code repository to ensure rapid iteration and stable deployment of technical solutions.
 
-<div align="center">
-  <img src="/static/assets/img/robocup.png" alt="Our Home Service Robot" width="400" />
-</div>
+[//]: # (<div align="center">)
 
+[//]: # (  <img src="/static/assets/img/robocup.png" alt="Our Home Service Robot" width="400" />)
+
+[//]: # (</div>)
+<div align="center">
+  <img src="https://github.com/Mooncakebro/syb-homepage/blob/main/static/assets/img/robocup.png?raw=true" 
+       alt="Our Home Service Robot" 
+       width="1000" />
+</div>
 ---
 
 ### **Autonomous Underwater Vehicle (AUV) System Development**  
@@ -99,8 +105,15 @@ Led the full-cycle development of the lab's first modular AUV platform from scra
   - Designed a distributed formation control algorithm based on the virtual leader-follower approach, achieving stable formation keeping and cooperative navigation for multiple AUVs.
 - **Engineering Delivery & Validation:** Established a complete integration and testing pipeline, overseeing validation from unit testing to open-water field deployment. Deliverables included an outstanding undergraduate thesis, one invention patent, one SCI journal paper (under review), and comprehensive technical documentation with code repository.
 
+[//]: # (<div align="center">)
+
+[//]: # (  <img src="/static/assets/img/auv.png" alt="Our AUV" width="400" />)
+
+[//]: # (</div>)
 <div align="center">
-  <img src="/static/assets/img/auv.png" alt="Our AUV" width="400" />
+  <img src="https://github.com/Mooncakebro/syb-homepage/blob/main/static/assets/img/auv.png?raw=true" 
+       alt="Our AUV" 
+       width="1000" />
 </div>
 
 ---
@@ -117,6 +130,13 @@ Responsible for the R&D and integration of perception, navigation, and control a
 - **Motion Control Algorithms:** Implemented and comparatively optimized classical PID and fuzzy PID controllers for vehicle steering and speed control to meet the dynamic demands of high-speed off-road scenarios.
 - **System Integration & Knowledge Management:** Completed system integration and competition parameter tuning. Filed one software copyright and established team technical documentation and debugging manuals.
 
+[//]: # (<div align="center">)
+
+[//]: # (  <img src="/static/assets/img/car.png" alt="Our Car" width="400" />)
+
+[//]: # (</div>)
 <div align="center">
-  <img src="/static/assets/img/car.png" alt="Our Car" width="400" />
+  <img src="https://github.com/Mooncakebro/syb-homepage/blob/main/static/assets/img/car.png?raw=true" 
+       alt="Our Car" 
+       width="1000" />
 </div>
