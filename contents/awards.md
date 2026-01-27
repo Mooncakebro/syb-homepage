@@ -8,4 +8,4 @@
   <img src="/static/assets/img/awards_v1.png" alt="Other awards and certificates" width="500" />
 </div>
 
-![Other awards and certificates](https://github.com/Mooncakebro/syb-homepage/blob/main/static/assets/img/awards_v1.png)
+![Other awards and certificates](https://github.com/Mooncakebro/syb-homepage/blob/main/static/assets/img/awards_v1.png?raw=true)
