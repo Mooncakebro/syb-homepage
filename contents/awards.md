@@ -4,10 +4,6 @@
 - Outstanding Graduation Thesis, Northwestern Polytechnical University, 2024.
 - Some other rewards and certificates as shown below.
 
-[//]: # (<div align="center">)
-
-[//]: # (  <img src="../static/assets/img/awards_v1.png" alt="Other awards and certificates" width="500" />)
-
-[//]: # (</div>)
-
-![Some of my rewards and certificates](assets/images/awards_v1.png)
+<div align="center">
+  <img src="/static/assets/img/awards_v1.png" alt="Other awards and certificates" width="500" />
+</div>
