@@ -1,4 +1,4 @@
-[![Mooncakebro](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/Mooncakebro)
+[![Mooncakebro](https://img.shields.io/badge/Mooncakebro-github-blue?logo=github)](https://github.com/Mooncakebro)
 
 I'm currently pursuing a Master's degree in Robotics and Artificial Intelligence Lab (RAIL) at the College of Electronic and Information Engineering, Tongji University, China.
 
