@@ -14,7 +14,7 @@ I'm currently pursuing a Master's degree in Robotics and Artificial Intelligence
 • Overall Grade: Distinction
 
 **Northwestern Polytechnical University**, Honors graduate (2020 – 2024)  
-• GPA: 3.912/4.0  
+• GPA: 3.912/4.0 (top 3%) 
 
 #### Research Interests  
 Underwater Robotics, Autonomous Driving, Lifelong Learning.
