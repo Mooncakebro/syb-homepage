@@ -7,3 +7,5 @@
 <div align="center">
   <img src="/static/assets/img/awards_v1.png" alt="Other awards and certificates" width="500" />
 </div>
+
+![Other awards and certificates](https://mooncakebro.github.io/syb-homepage/raw/static/assets/img/awards_v1.png)
