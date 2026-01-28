@@ -69,7 +69,7 @@
 [//]: # (- **系统集成与沉淀**：完成系统集成与竞赛参数调优，申请软件著作权一项，并建立车队技术文档与调试手册。)
 
 ### **Household Service Robot System Development**  
-**September 2024 – May 2025 | TJ-ARK Team, Tongji University**  
+**September 2024 – May 2025 | TJ-Ark Team, Tongji University**  
 *Core R&D Member (Vision & Decision-Making System)*
 
 Spearheaded the development of an intelligent robot decision-making system based on multimodal perception, providing key technical support for the team to win the National Championship in the 2025 RoboCup@Home competition.
