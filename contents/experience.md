@@ -99,7 +99,7 @@ Led the full-cycle development of the lab's first modular AUV platform from scra
 
 #### **Key Contributions:**
 - **System Architecture Design:** Architected a layered software framework based on ROS, decoupling core modules (perception, decision-making, guidance, navigation and control), enhancing system scalability and debugging efficiency.
-- **Hardware Platform Implementation:** Led the hardware system design, including the pressure-resistant hull, propulsion system, sensor suite, power management, and communication links. Successfully delivered two variant prototypes: Type A (for underwater intervention) and Type B (for surface formation).
+- **Hardware Platform Implementation:** Led the hardware system design, including the control system, sensor suite, propulsion system, power management, and communication links. Successfully delivered two variant prototypes: Type A (for underwater intervention) and Type B (for surface formation).
 - **Core Algorithm Development:**
   - Proposed a kinematics-inversion-based method for underwater target detection and localization, enabling accurate detection and positioning in low-visibility conditions.
   - Designed a distributed formation control algorithm based on the virtual leader-follower approach, achieving stable formation keeping and cooperative navigation for multiple AUVs.
