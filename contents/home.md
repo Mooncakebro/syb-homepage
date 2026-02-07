@@ -12,7 +12,7 @@ I'm currently pursuing a Master's degree in Robotics and Artificial Intelligence
 - GPA: 4.87/5.0  
 
 **National University of Singapore**, Exchange student, 'Introduction to Industry 4.0' Program (2024.7)  <br>
-- Supervisor: [Prof. Prahlad VADAKKEPAT](https://ieeexplore.ieee.org/author/37274712000)
+- Project Supervisor: [Prof. Prahlad VADAKKEPAT](https://ieeexplore.ieee.org/author/37274712000)
 - Overall Grade: Distinction
 
 **Northwestern Polytechnical University**, B.Eng. (2020 – 2024)
