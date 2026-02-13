@@ -145,7 +145,7 @@ Responsible for the R&D and integration of perception, navigation, and control a
 
 <div align="center">
   <iframe 
-    src="//player.bilibili.com/player.html?bvid=BV1wAc7zuEUq&page=1" 
+    src="//player.bilibili.com/player.html?bvid=BV1wAc7zuEUq&page=1&autoplay=0" 
     width="1000" 
     height="562" 
     scrolling="no" 
