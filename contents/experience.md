@@ -141,10 +141,18 @@ Responsible for the R&D and integration of perception, navigation, and control a
        width="1000" />
 </div>
 
+<br>
+
 <div align="center">
-  <video width="1000" controls>
-    <source src="https://github.com/Mooncakebro/syb-homepage/blob/main/static/assets/video/car.mp4" type="video/mp4">
-    您的浏览器不支持视频标签，请<a href="/static/assets/video/car.mp4">点击下载</a>观看实录。
-  </video>
-  <p><em>video for our car</em></p>
+  <iframe 
+    src="//player.bilibili.com/player.html?bvid=BV1Jb411B7EU&page=1" 
+    width="1000" 
+    height="562" 
+    scrolling="no" 
+    border="0" 
+    frameborder="no" 
+    framespacing="0" 
+    allowfullscreen="true">
+  </iframe>
+  <p><em>test bilibili video</em></p>
 </div>
