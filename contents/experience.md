@@ -130,11 +130,6 @@ Responsible for the R&D and integration of perception, navigation, and control a
 - **Motion Control Algorithms:** Implemented and comparatively optimized classical PID and fuzzy PID controllers for vehicle steering and speed control to meet the dynamic demands of high-speed off-road scenarios.
 - **System Integration & Knowledge Management:** Completed system integration and competition parameter tuning. Filed one software copyright and established team technical documentation and debugging manuals.
 
-[//]: # (<div align="center">)
-
-[//]: # (  <img src="/static/assets/img/car.png" alt="Our Car" width="400" />)
-
-[//]: # (</div>)
 <div align="center">
   <img src="https://github.com/Mooncakebro/syb-homepage/blob/main/static/assets/img/car.png?raw=true" 
        alt="Our Car" 
@@ -144,15 +139,39 @@ Responsible for the R&D and integration of perception, navigation, and control a
 <br>
 
 <div align="center">
-  <iframe 
-    src="//player.bilibili.com/player.html?bvid=BV1wAc7zuEUq&page=1&autoplay=0" 
-    width="1000" 
-    height="562" 
-    scrolling="no" 
-    border="0" 
-    frameborder="no" 
-    framespacing="0" 
-    allowfullscreen="true">
-  </iframe>
+  <a href="https://www.bilibili.com/video/BV1wAc7zuEUq/?spm_id_from=333.1387.homepage.video_card.click&vd_source=446263e471032186edf521695a9208be" target="_blank">
+    <img src="https://github.com/Mooncakebro/syb-homepage/blob/main/static/assets/gif/car.gif" 
+         alt="Click to watch the competition video on Bilibili" 
+         width="1000" 
+         style="cursor: pointer; border-radius: 8px;" />
+    <br>
+    <strong>▶️ Click the GIF to watch the high-speed off-road testing footage on Bilibili</strong>
+  </a>
   <p><em>High-Speed Off-Road Testing Footage</em></p>
 </div>
+
+[//]: # (<div align="center">)
+
+[//]: # (  <iframe )
+
+[//]: # (    src="//player.bilibili.com/player.html?bvid=BV1wAc7zuEUq&page=1&autoplay=0" )
+
+[//]: # (    width="1000" )
+
+[//]: # (    height="562" )
+
+[//]: # (    scrolling="no" )
+
+[//]: # (    border="0" )
+
+[//]: # (    frameborder="no" )
+
+[//]: # (    framespacing="0" )
+
+[//]: # (    allowfullscreen="true">)
+
+[//]: # (  </iframe>)
+
+[//]: # (  <p><em>High-Speed Off-Road Testing Footage</em></p>)
+
+[//]: # (</div>)
