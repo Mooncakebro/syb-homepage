@@ -116,6 +116,19 @@ Led the full-cycle development of the lab's first modular AUV platform from scra
        width="1000" />
 </div>
 
+<br>
+
+<div align="center">
+  <a href="https://www.bilibili.com/video/BV15ocLzWEuU/?spm_id_from=333.1387.homepage.video_card.click&vd_source=446263e471032186edf521695a9208be" target="_blank">
+    <img src="https://github.com/Mooncakebro/syb-homepage/blob/main/static/assets/gif/auv.gif?raw=true" 
+         alt="Click to watch the AUV experiment video on Bilibili" 
+         width="800" 
+         style="cursor: pointer; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+    <br>
+    <strong>▶️ Click the GIF to watch the AUV experiment footage on Bilibili</strong>
+  </a>
+  <p><em>AUV Experiment Footage</em></p>
+</div>
 ---
 
 ### **Intelligent Off-Road Vehicle System Development**  
@@ -140,7 +153,7 @@ Responsible for the R&D and integration of perception, navigation, and control a
 
 <div align="center">
   <a href="https://www.bilibili.com/video/BV1wAc7zuEUq/?spm_id_from=333.1387.homepage.video_card.click&vd_source=446263e471032186edf521695a9208be" target="_blank">
-    <img src="https://github.com/Mooncakebro/syb-homepage/blob/main/static/assets/gif/car.gif" 
+    <img src="https://github.com/Mooncakebro/syb-homepage/blob/main/static/assets/gif/car.gif?raw=true"
          alt="Click to watch the competition video on Bilibili" 
          width="1000" 
          style="cursor: pointer; border-radius: 8px;" />
