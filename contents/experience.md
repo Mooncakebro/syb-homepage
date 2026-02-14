@@ -98,7 +98,7 @@ Spearheaded the development of an intelligent robot decision-making system based
 Led the full-cycle development of the lab's first modular AUV platform from scratch, encompassing system architecture, hardware/software development, and integration testing. The platform supports both solo missions and multi-AUV cooperative tasks.
 
 #### **Key Contributions:**
-- **System Architecture Design:** Architected a layered software framework based on ROS, decoupling core modules (perception, decision-making, guidance, navigation and control), enhancing system scalability and debugging efficiency.
+- **System Architecture Design:** Architected a layered software framework based on ROS, decoupling core modules (perception, decision-making, guidance, navigation and control, sensor and actuator), enhancing system scalability and debugging efficiency.
 - **Hardware Platform Implementation:** Led the hardware system design, including the control system, sensor suite, propulsion system, power management, and communication links. Successfully delivered two variant prototypes: Type A (for underwater intervention) and Type B (for surface formation).
 - **Core Algorithm Development:**
   - Proposed a kinematics-inversion-based method for underwater target detection and localization, enabling accurate detection and positioning in low-visibility conditions.
@@ -134,13 +134,13 @@ Led the full-cycle development of the lab's first modular AUV platform from scra
 **October 2021 – July 2023 | Intelligent Vehicle Base, Northwestern Polytechnical University**  
 *Team Captain, High-Speed Off-Road Group*
 
-Responsible for the R&D and integration of perception, navigation, and control algorithms for an autonomous off-road vehicle. Led the team to win the 2nd Prize in the Western China Division of the 18th National University Intelligent Car Competition.
+Responsible for the R&D and integration of perception, navigation, and control algorithms for an autonomous off-road vehicle. Led the team to win the 2nd Prize in the Western China Division of the 18th National University Smart Car Race.
 
 #### **Key Contributions:**
 - **Vision-Based Perception System:** Designed a visual path recognition system utilizing the Otsu method for adaptive thresholding, achieving robust lane feature extraction under challenging lighting conditions.
-- **Multi-Sensor Fusion Navigation:** Developed a tightly coupled navigation algorithm fusing IMU data (processed with complementary filtering) and GNSS signals, enabling precise pose estimation for high-speed off-road driving.
-- **Motion Control Algorithms:** Implemented and comparatively optimized classical PID and fuzzy PID controllers for vehicle steering and speed control to meet the dynamic demands of high-speed off-road scenarios.
-- **System Integration & Knowledge Management:** Completed system integration and competition parameter tuning. Filed one software copyright and established team technical documentation and debugging manuals.
+- **Multi-Sensor Fusion Navigation:** Developed a navigation algorithm fusing IMU data (processed with complementary filtering) and GNSS signals, enabling precise pose estimation for high-speed off-road driving.
+- **Motion Control Algorithms:** Implemented and optimized classical PID and fuzzy PID controllers for vehicle steering and speed control to meet the dynamic demands of high-speed off-road scenarios.
+- **System Integration & Knowledge Management:** Completed system integration and key parameter tuning. Filed one software copyright and established team technical documentation and debugging manuals.
 
 <div align="center">
   <img src="https://github.com/Mooncakebro/syb-homepage/blob/main/static/assets/img/car.png?raw=true" 
