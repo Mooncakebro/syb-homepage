@@ -130,7 +130,7 @@ Led the full-cycle development of the lab's first modular AUV platform from scra
 </div>
 ---
 
-### **Intelligent Off-Road Vehicle System Development**  
+### **Unmanned Off-Road Vehicle System Development**  
 **October 2021 – July 2023 | Intelligent Vehicle Base, Northwestern Polytechnical University**  
 *Team Captain, High-Speed Off-Road Group*
 
