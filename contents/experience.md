@@ -92,7 +92,7 @@ Spearheaded the development of an intelligent robot decision-making system based
 ---
 
 ### **Autonomous Underwater Vehicle (AUV) System Development**  
-**March 2023 – June 2024 | Underwater Robotics Innovation Lab, Northwestern Polytechnical University**  
+**March 2023 – June 2024 | Underwater Robot Innovation Lab, Northwestern Polytechnical University**  
 *Project Lead / Full-Stack Engineer*
 
 Led the full-cycle development of the lab's first modular AUV platform from scratch, encompassing system architecture, hardware/software development, and integration testing. The platform supports both solo missions and multi-AUV cooperative tasks.
