@@ -1,5 +1,5 @@
 ### Patents
-1.  Shen, H., **Song, Y.**, Huang, M., Zhu, J., Li, H., **"一种基于运动反演的单目相机水下目标检测定位方法"** (Patent No.: ZL202411410847.7), China National Intellectual Property Administration. Granted: Sep 2025.
+1.  Shen, H., **Song, Y.**, Huang, M., Zhu, J., Li, H., **"An Underwater Target Detection and Localization Method Based on Motion Inversion Using Monocular Camera (in Chinese)"** (Patent No.: ZL202411410847.7), China National Intellectual Property Administration. Granted: Sep 2025.
 
 ### Papers
 
