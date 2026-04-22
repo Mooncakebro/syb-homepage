@@ -16,7 +16,7 @@ framework. Investigate lifelong imitation learning paradigms to enable continuou
 <div align="center">
   <img src="https://github.com/Mooncakebro/syb-homepage/blob/main/static/assets/gif/vla_demo.gif?raw=true" 
        alt="VLA demo on SO101 and Realman robot" 
-       width="500" />
+       width="600" />
 </div>
 
 ---
