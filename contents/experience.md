@@ -1,4 +1,4 @@
-### **Industrial Aluminum Processing VLA System Development**  
+### **Industrial Aluminum Processing VLA System Development (Ongoing)**  
 **March 2026 – Present | Robot and AI Lab, Tongji University**  
 *Core R&D Member (VLA & Lifelong Learning Mechanism)*
 
