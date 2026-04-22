@@ -13,16 +13,10 @@ framework. Investigate lifelong imitation learning paradigms to enable continuou
 
 [//]: # (- **Team & Tech Infrastructure:** As a key technical member, conducted ROS and robotics training to systematically enhance the team's R&D capabilities. Led the improvement of the team's code repository to ensure rapid iteration and stable deployment of technical solutions.)
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <!-- 左侧新图片 -->
-  <img src="https://github.com/Mooncakebro/syb-homepage/blob/main/static/assets/img/vla_framework.png?raw=true" 
-       alt="VLA framework" 
-       style="height: 400px; width: auto; object-fit: contain;" />
-  
-  <!-- 原有 GIF -->
+<div align="center">
   <img src="https://github.com/Mooncakebro/syb-homepage/blob/main/static/assets/gif/vla_demo.gif?raw=true" 
        alt="VLA demo on SO101 and Realman robot" 
-       width="800" />
+       width="700" />
 </div>
 
 ---
