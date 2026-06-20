@@ -22,10 +22,10 @@ framework. Investigate lifelong imitation learning paradigms to enable continuou
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img src="https://github.com/Mooncakebro/syb-homepage/blob/main/static/assets/img/vla_framework.png?raw=true" 
        alt="Overall VLA structure" 
-       style="height: 340px;" />
+       style="height: 300px;" />
   <img src="https://github.com/Mooncakebro/syb-homepage/blob/main/static/assets/gif/vla_demo.gif?raw=true" 
        alt="VLA demo on SO101 and Realman robot" 
-       style="height: 340px;" />
+       style="height: 300px;" />
 </div>
 
 ---
