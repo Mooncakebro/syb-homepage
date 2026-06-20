@@ -13,7 +13,7 @@ framework. Investigate lifelong imitation learning paradigms to enable continuou
 
 [//]: # (- **Team & Tech Infrastructure:** As a key technical member, conducted ROS and robotics training to systematically enhance the team's R&D capabilities. Led the improvement of the team's code repository to ensure rapid iteration and stable deployment of technical solutions.)
 
-<div align="center">
+<div align="right">
   <img src="https://github.com/Mooncakebro/syb-homepage/blob/main/static/assets/gif/vla_demo.gif?raw=true" 
        alt="VLA demo on SO101 and Realman robot" 
        width="600" />
