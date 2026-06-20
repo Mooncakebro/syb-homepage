@@ -2,16 +2,12 @@
 **March 2026 – Present | Robot and AI Lab, Tongji University**  
 *Core R&D Member (VLA & Lifelong Learning Mechanism)*
 
-Engineer a scalable demonstration data acquisition pipeline with motion retargeting. Develop a VLA based on Lerobot
-framework. Investigate lifelong imitation learning paradigms to enable continuous skill acquisition.
+Develop a VLA based on Lerobot framework. Investigate lifelong imitation learning paradigms to enable continuous skill acquisition.
 
-[//]: # (#### **Key Contributions:**)
-
-[//]: # (- **Model Training Pipeline:** Built automated training pipeline for object detection models, integrating automated data collection and augmentation, significantly accelerating model iteration and improving detection accuracy.)
-
-[//]: # (- **Intelligent Decision-Making System:** Designed and implemented a hierarchical decision-making system based on visual feedback, fusing real-time scene understanding with task planning to effectively increase the robot's task completion rate in dynamic home environments.)
-
-[//]: # (- **Team & Tech Infrastructure:** As a key technical member, conducted ROS and robotics training to systematically enhance the team's R&D capabilities. Led the improvement of the team's code repository to ensure rapid iteration and stable deployment of technical solutions.)
+#### **Key Contributions:**
+- **VLA Framework:** 
+- **Front Door Encoder:** 
+- **Lifelong Learning Mechanism:** 
 
 <!-- <div align="right">
   <img src="https://github.com/Mooncakebro/syb-homepage/blob/main/static/assets/gif/vla_demo.gif?raw=true" 
