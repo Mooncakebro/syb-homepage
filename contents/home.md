@@ -12,7 +12,7 @@ I'm currently pursuing a Master's degree in Robotics and Artificial Intelligence
 - GPA: 4.83/5.0  
 - IELTS: 7.5
 
-**Tsinghua AIR**, Research Intern, Agent Memory & Continual Learning (2026 – Present)
+**Tsinghua AIR**, Research Intern, Agent Memory & Continual Learning (2026.5 – Present)
 - Project Supervisor:[Prof. Yuanchun LI](https://ieeexplore.ieee.org/author/37086601044)
 
 **National University of Singapore**, Exchange student, 'Introduction to Industry 4.0' Program (2024.7)  <br>

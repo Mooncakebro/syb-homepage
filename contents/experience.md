@@ -61,6 +61,7 @@ Spearheaded the development of an intelligent robot decision-making system based
        alt="Our Home Service Robot" 
        width="1000" />
 </div>
+
 ---
 
 ### **Autonomous Underwater Vehicle (AUV) System Development**  
@@ -95,6 +96,7 @@ Led the full-cycle development of the lab's first modular AUV platform from scra
     <strong>▶️ Click to watch the AUV experiment footage on Bilibili</strong>
   </a>
 </div>
+
 ---
 
 ### **Unmanned Off-Road Vehicle System Development**  
