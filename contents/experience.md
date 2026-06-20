@@ -13,6 +13,7 @@ Contributed to an agentic pre-training paradigm for curiosity-driven autonomous 
        alt="GUI Agent Framework" 
        width="800" />
 </div>
+
 ---
 
 

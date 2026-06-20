@@ -7,7 +7,7 @@ I'm currently pursuing a Master's degree in Robotics and Artificial Intelligence
 <code>yuebing_song@163.com</code>
 
 #### Education  
-**Tongji University**, M.Sc. (2024 – now)
+**Tongji University**, M.Sc. (2024 – Present)
 - Supervisor: [Prof. Qijun CHEN](https://ieeexplore.ieee.org/author/37276133600)
 - GPA: 4.83/5.0  
 - IELTS: 7.5
