@@ -1,12 +1,12 @@
 ### **Curiosity-Driven Agentic Pre-training & Continual Learning (Ongoing)**  
 **May 2026 – Present | AIR, Tsinghua University**  
-*Research Intern (Streaming memory conpression)*
+*Research Intern (Streaming Memory Compression)*
 
-Contributed to an agentic pre-training paradigm for curiosity-driven autonomous exploration, co-architecting the core triad of Agent, Memory, and Continual World Models to enable lifelong adaptation in dynamic environments.
+Co-architected an agentic pre-training paradigm for curiosity-driven autonomous exploration, enabling agents to distill underlying mechanisms beyond statistical data distributions (e.g., causal chains). Designed the Memory System within the Agent-Memory-World Model architecture, which manages the full lifecycle of streaming memory (formation, aggregation, and injection) to enable lifelong adaptation.
 
 #### **Key Contributions:**
-- **Post Memory Compression Method:** 
-- **Streaming Memory Compression:** 
+- **Streaming Memory Aggregation:** Developed a memory post-processing module inspired by the [delta-mem](https://arxiv.org/abs/2605.12357) to aggregate compressed representations. By injecting these fixed-size states into the prefix, it prevents the linear growth of memory tokens, ensuring constant context overhead.
+- **Unified Actor-Compressor Architecture:**  Designed a novel architecture unifying the Actor and Compressor. It introduces an RNN-style memory state at each LLM layer, utilizing dedicated read/write mechanisms and cross-attention for layer-wise memory injection.
 
 <div align="center">
   <img src="https://github.com/Mooncakebro/syb-homepage/blob/main/static/assets/img/agent_memory.png?raw=true" 
@@ -21,12 +21,12 @@ Contributed to an agentic pre-training paradigm for curiosity-driven autonomous 
 **March 2026 – Present | Robot and AI Lab, Tongji University**  
 *Core R&D Member (VLA & Lifelong Learning Mechanism)*
 
-Developed a VLA based on Lerobot framework. Investigated lifelong imitation learning paradigms to enable continuous skill acquisition.
+Contributed to the development of a Vision-Language-Action (VLA) model for industrial aluminum sheet processing, built upon the LeRobot and StarVLA frameworks. Pioneered lifelong imitation learning paradigms to enable continuous, boundary-free skill acquisition in dynamic manufacturing environments.
 
 #### **Key Contributions:**
-- **VLA Framework:** 
-- **Front Door Encoder:** 
-- **Lifelong Learning Mechanism:** 
+- **VLA System Architecture:** Engineered a VLA model for industrial manipulation, leveraging the LeRobot and StarVLA frameworks to seamlessly bridge high-level semantic instructions with low-level robotic control policies.
+- **Causal-Inspired Feature Enhancement Module:** Designed a feature enhancement module inspired by the Front-Door Criterion in causal inference. Implemented an attention-based adaptive gating mechanism to facilitate interaction between visual & goal features (extracted via ResNet & CLIP) and semantic priors (from a frozen VLM), improving robustness in complex industrial scenes.
+- **Lifelong Learning Mechanism:** Developed a lifelong imitation learning mechanism by adapting the [LEGION](https://www.nature.com/articles/s42256-025-00983-2) framework. Integrated a Dirichlet Process Mixture Model (DPMM) with a Variational Autoencoder (VAE) to build a high-level task encoder, enabling adaptive clustering of streaming tasks without predefined task boundaries and providing robust conditional representations for downstream decoder.
 
 <!-- <div align="right">
   <img src="https://github.com/Mooncakebro/syb-homepage/blob/main/static/assets/gif/vla_demo.gif?raw=true" 
