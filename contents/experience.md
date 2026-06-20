@@ -1,8 +1,26 @@
+### **Curiosity-Driven Agentic Pre-training & Continual Learning (Ongoing)**  
+**May 2026 – Present | AIR, Tsinghua University**  
+*Research Intern (Streaming memory conpression)*
+
+Contributed to an agentic pre-training paradigm for curiosity-driven autonomous exploration, co-architecting the core triad of Agent, Memory, and Continual World Models to enable lifelong adaptation in dynamic environments.
+
+#### **Key Contributions:**
+- **Post Memory Compression Method:** 
+- **Streaming Memory Compression:** 
+
+<div align="center">
+  <img src="https://github.com/Mooncakebro/syb-homepage/blob/main/static/assets/img/agent_memory.png?raw=true" 
+       alt="GUI Agent Framework" 
+       width="800" />
+</div>
+---
+
+
 ### **Industrial Aluminum Processing VLA System Development (Ongoing)**  
 **March 2026 – Present | Robot and AI Lab, Tongji University**  
 *Core R&D Member (VLA & Lifelong Learning Mechanism)*
 
-Develop a VLA based on Lerobot framework. Investigate lifelong imitation learning paradigms to enable continuous skill acquisition.
+Developed a VLA based on Lerobot framework. Investigated lifelong imitation learning paradigms to enable continuous skill acquisition.
 
 #### **Key Contributions:**
 - **VLA Framework:** 
