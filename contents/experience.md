@@ -18,10 +18,10 @@ Develop a VLA based on Lerobot framework. Investigate lifelong imitation learnin
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img src="https://github.com/Mooncakebro/syb-homepage/blob/main/static/assets/img/vla_framework.png?raw=true" 
        alt="Overall VLA structure" 
-       style="height: 300px;" />
+       style="height: 200px;" />
   <img src="https://github.com/Mooncakebro/syb-homepage/blob/main/static/assets/gif/vla_demo.gif?raw=true" 
        alt="VLA demo on SO101 and Realman robot" 
-       style="height: 300px;" />
+       style="height: 200px;" />
 </div>
 
 ---
@@ -70,7 +70,7 @@ Led the full-cycle development of the lab's first modular AUV platform from scra
   <a href="https://www.bilibili.com/video/BV15ocLzWEuU/?spm_id_from=333.1387.homepage.video_card.click&vd_source=446263e471032186edf521695a9208be" target="_blank">
     <img src="https://github.com/Mooncakebro/syb-homepage/blob/main/static/assets/gif/auv.gif?raw=true" 
          alt="Click to watch the AUV experiment video on Bilibili" 
-         width="1000" 
+         width="800" 
          style="cursor: pointer; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
     <br>
     <strong>▶️ Click to watch the AUV experiment footage on Bilibili</strong>
@@ -102,7 +102,7 @@ Responsible for the R&D and integration of perception, navigation, and control a
   <a href="https://www.bilibili.com/video/BV1wAc7zuEUq/?spm_id_from=333.1387.homepage.video_card.click&vd_source=446263e471032186edf521695a9208be" target="_blank">
     <img src="https://github.com/Mooncakebro/syb-homepage/blob/main/static/assets/gif/car.gif?raw=true"
          alt="Click to watch the competition video on Bilibili" 
-         width="1000" 
+         width="800" 
          style="cursor: pointer; border-radius: 8px;" />
     <br>
     <strong>▶️ Click to watch the high-speed off-road testing footage on Bilibili</strong>
