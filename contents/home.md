@@ -25,4 +25,4 @@ I'm currently pursuing a Master's degree in Robotics and Artificial Intelligence
 - CET4: 621, CET6:619
 
 #### Research Interests  
-Underwater Robotics, End-to-end Autonomous Driving, Lifelong Learning, Robot Learning.
+Underwater Robotics, End-to-end Autonomous Driving, Lifelong Learning, Agent Memory, Robot Learning.
