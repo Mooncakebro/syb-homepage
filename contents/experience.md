@@ -6,7 +6,7 @@ Co-architect an agentic pre-training paradigm for curiosity-driven autonomous ex
 
 #### **Key Contributions:**
 - **Streaming Memory Aggregation:** Develop a memory post-processing module inspired by the [delta-mem](https://arxiv.org/abs/2605.12357) to aggregate compressed representations into fixed-size states, preventing the linear growth of memory tokens.
-- **Unified Actor-Compressor Architecture:**  Design a novel architecture unifying the Actor and Compressor. It introduces an RNN-style memory state at each LLM layer, utilizing dedicated read/write mechanisms and cross-attention for layer-wise memory injection.
+- **Unified Actor-Compressor Architecture:**  Design a novel architecture unifying the Actor and Compressor. It introduces an RNN-style memory at LLM layers, utilizing dedicated read/write mechanisms and cross-attention for layer-wise memory injection.
 
 <div align="center">
   <img src="https://github.com/Mooncakebro/syb-homepage/blob/main/static/assets/img/agent_memory.png?raw=true" 
@@ -24,9 +24,9 @@ Co-architect an agentic pre-training paradigm for curiosity-driven autonomous ex
 Contribute to the development of a Vision-Language-Action (VLA) model for industrial aluminum sheet processing, built upon the LeRobot and StarVLA frameworks. Pioneer lifelong imitation learning paradigms to enable continuous, boundary-free skill acquisition in dynamic manufacturing environments.
 
 #### **Key Contributions:**
-- **VLA System Architecture:** Engineer a VLA model for industrial manipulation, leveraging the LeRobot and StarVLA frameworks to seamlessly bridge high-level semantic instructions with low-level robotic control policies.
-- **Causal-Inspired Feature Enhancement Module:** Design a feature enhancement module inspired by the Front-Door Criterion in causal inference. Implement an attention-based adaptive gating mechanism to facilitate interaction between visual & goal features (extracted via ResNet & CLIP) and semantic priors (from a frozen VLM), improving robustness in complex industrial scenes.
-- **Lifelong Learning Mechanism:** Develop a lifelong imitation learning mechanism by adapting the [LEGION](https://www.nature.com/articles/s42256-025-00983-2) framework. Integrate a Dirichlet Process Mixture Model (DPMM) with a Variational Autoencoder (VAE) to build a high-level task encoder, enabling adaptive clustering of streaming tasks without predefined task boundaries and providing robust conditional representations for downstream decoder.
+- **VLA System Architecture:** Engineer a VLA model for industrial manipulation, leveraging the LeRobot and StarVLA frameworks to bridge high-level semantic instructions with low-level robotic control policies.
+- **Causal-Inspired Feature Enhancement Module:** Design a feature enhancement module inspired by the Front-Door Criterion. Implement an attention-based adaptive gating mechanism to facilitate interaction between visual & goal features and semantic priors (from a frozen VLM), improving generalization to OOD visual scenarios.
+- **Lifelong Learning Mechanism:** Develop a lifelong imitation learning mechanism by adapting the [LEGION](https://www.nature.com/articles/s42256-025-00983-2) framework. Integrate a Dirichlet Process Mixture Model (DPMM) with a Variational Autoencoder (VAE) to build a high-level task encoder, enabling adaptive clustering of streaming tasks and providing robust conditional representations for downstream decoder.
 
 <!-- <div align="right">
   <img src="https://github.com/Mooncakebro/syb-homepage/blob/main/static/assets/gif/vla_demo.gif?raw=true" 
