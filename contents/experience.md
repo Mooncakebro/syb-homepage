@@ -25,7 +25,7 @@ Contribute to the development of a Vision-Language-Action (VLA) model for indust
 
 #### **Key Contributions:**
 - **VLA System Architecture:** Engineer a VLA model for industrial manipulation, leveraging the LeRobot and StarVLA frameworks to bridge high-level semantic instructions with low-level robotic control policies.
-- **Causal-Inspired Feature Enhancement Module:** Design a feature enhancement module inspired by the Front-Door Criterion. Implement an attention-based adaptive gating mechanism to facilitate interaction between visual & goal features and semantic priors (from a frozen VLM), improving generalization to OOD visual scenarios.
+- **Causal-Inspired Feature Enhancement Module:** Design a feature enhancement module inspired by the Front-Door Criterion. Implement an attention-based adaptive gating mechanism to facilitate interaction between visual & goal features and semantic priors (from a frozen VLM), improving model's generalization ability.
 - **Lifelong Learning Mechanism:** Develop a lifelong imitation learning mechanism by adapting the [LEGION](https://www.nature.com/articles/s42256-025-00983-2) framework. Integrate a Dirichlet Process Mixture Model (DPMM) with a Variational Autoencoder (VAE) to build a high-level task encoder, enabling adaptive clustering of streaming tasks and providing robust conditional representations for downstream decoder.
 
 <!-- <div align="right">
