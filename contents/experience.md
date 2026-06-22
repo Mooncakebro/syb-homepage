@@ -2,7 +2,7 @@
 **May 2026 – Present | AIR, Tsinghua University**  
 *Research Intern (Streaming Memory Compression)*
 
-Co-architect an agentic pre-training paradigm for curiosity-driven autonomous exploration, enabling agents to distill underlying mechanisms beyond statistical data distributions. Design the Memory System within the Agent-Memory-World Model architecture, which manages the full lifecycle of streaming memory (formation, aggregation, and injection) to enable lifelong adaptation.
+Co-architect an agentic pre-training paradigm for curiosity-driven autonomous exploration, enabling agents to distill underlying mechanisms beyond statistical data distributions. Design the Memory System within the Agent-Memory-World Model architecture, which manages the full lifecycle of streaming memory to enable lifelong adaptation.
 
 #### **Key Contributions:**
 - **Streaming Memory Aggregation:** Develop a memory post-processing module inspired by the [delta-mem](https://arxiv.org/abs/2605.12357) to aggregate compressed representations into fixed-size states, preventing the linear growth of memory tokens.
