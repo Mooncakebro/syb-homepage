@@ -22,7 +22,7 @@ I'm currently pursuing a Master's degree in Robotics and Artificial Intelligence
 **Northwestern Polytechnical University**, B.Eng. (2020 – 2024)
 - Supervisor: [Prof. He SHEN](https://ieeexplore.ieee.org/author/37087896902)
 - GPA: 3.912/4.0 (top 3%) 
-- CET4: 621, CET6:619
+- CET4: 621, CET6: 619
 
 #### Research Interests  
 Underwater Robotics, End-to-end Autonomous Driving, Lifelong Learning, Agent Memory, Robot Learning.
