@@ -11,13 +11,13 @@ Co-architect an agentic pre-training paradigm for curiosity-driven autonomous ex
 <div align="center">
   <img src="https://github.com/Mooncakebro/syb-homepage/blob/main/static/assets/img/agent_memory.png?raw=true" 
        alt="GUI Agent Framework" 
-       width="800" />
+       width="1000" />
 </div>
 
 ---
 
 
-### **Industrial Aluminum Processing VLA System Development (Ongoing)** [[github](https://github.com/Mooncakebro/my_MoDE)]  
+### **Industrial Aluminum Processing VLA System Development (Ongoing)** 
 **March 2026 – Present | Robot and AI Lab, Tongji University**  
 *Core R&D Member (VLA & Lifelong Learning Mechanism)*
 
