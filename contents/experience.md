@@ -17,7 +17,7 @@ Co-architect an agentic pre-training paradigm for curiosity-driven autonomous ex
 ---
 
 
-### **Industrial Aluminum Processing VLA System Development (Ongoing)**  
+### **Industrial Aluminum Processing VLA System Development (Ongoing)** [[github](https://github.com/Mooncakebro/my_MoDE)]  
 **March 2026 – Present | Robot and AI Lab, Tongji University**  
 *Core R&D Member (VLA & Lifelong Learning Mechanism)*
 
