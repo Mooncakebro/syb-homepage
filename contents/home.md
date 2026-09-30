@@ -8,7 +8,7 @@ I'm currently pursuing a Master's degree in Robotics and Artificial Intelligence
 
 #### Education  
 **Tongji University**, M.Sc. (2024 – Present)
-- Supervisor: [Prof. Qijun CHEN](https://ieeexplore.ieee.org/author/37276133600)
+- Supervisor: [Prof. Qijun CHEN](https://ieeexplore.ieee.org/author/37276133600) and [Prof. Chengju LIU](https://ieeexplore.ieee.org/author/37677379800)
 - GPA: 4.83/5.0  
 - IELTS: 7.5
 
