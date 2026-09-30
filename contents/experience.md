@@ -1,5 +1,5 @@
 ### **Curiosity-Driven Agentic Pre-training & Continual Learning (Ongoing)**  
-**May 2026 – September 2026 | AIR, Tsinghua University**  
+**May 2026 – Present | AIR, Tsinghua University**  
 *Summer Intern (Streaming Memory Compression)*
 
 Co-architect an agentic pre-training paradigm for curiosity-driven autonomous exploration, enabling agents to distill underlying mechanisms beyond statistical data distributions. Design the Memory System within the Agent-Memory-World Model architecture, which manages the full lifecycle of streaming memory to enable lifelong adaptation.
